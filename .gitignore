@@ -190,3 +190,4 @@ ModelManifest.xml
 *.config
 *.sqlite
 /.vs/WebApplication/v15/sqlite3
+/.vs
